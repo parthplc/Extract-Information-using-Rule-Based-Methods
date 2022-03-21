@@ -26,6 +26,6 @@ Final rogue score of bigbird model compared to abstract is
  ```
 
  ## Code on Kaggle
- Link : https://www.kaggle.com/code/parthplc/extract-data-from-research-paper-final?scriptVersionId=90700551
+ Link : https://www.kaggle.com/code/parthplc/extract-data-from-research-paper-final?scriptVersionId=90756568
  Score Csv Link : https://docs.google.com/spreadsheets/d/1l46_Zg5qS1aCgiTycvRk5EBTkq5tS4RRjnauUv4YOmc/edit?usp=sharing
 
